@@ -1,0 +1,19 @@
+﻿  Chess.cpp
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(73,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(73,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(74,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(74,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(77,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(78,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(89,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(90,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(104,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(105,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(106,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(107,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(108,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(114,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(125,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(136,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Chess.cpp(147,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  人机对战-五子棋.vcxproj -> F:\Cplusplus\projects\wuziqi\人机对战-五子棋\Debug\人机对战-五子棋.exe
